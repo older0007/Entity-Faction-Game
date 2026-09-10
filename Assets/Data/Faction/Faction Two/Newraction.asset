@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06c04878dea34a22909c2bd59e2eb62f, type: 3}
+  m_Name: Newraction
+  m_EditorClassIdentifier: Assembly-CSharp::GamePlay.Fractions.FractionConfig
+  fractionName: NewFraction
+  fractionColor: {r: 0, g: 0.1333121, b: 1, a: 1}
+  units:
+  - unitConfig: {fileID: 11400000, guid: ad86d73bf1e27834298bd7eb864d8279, type: 2}
+    overriddenPrefab: {fileID: 0}
+  - unitConfig: {fileID: 11400000, guid: 58062f85c615fa747a67162db308722e, type: 2}
+    overriddenPrefab: {fileID: 0}
+  - unitConfig: {fileID: 11400000, guid: ae00935155a2eec4784ad4aac7f86bbd, type: 2}
+    overriddenPrefab: {fileID: 0}
+  basePrefab: {fileID: 1863215938196294723, guid: 19b5270a40119304ea5c2c00ec2010b2, type: 3}

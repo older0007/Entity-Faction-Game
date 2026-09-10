@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7ff9c722a464d579b0e0a5392754032, type: 3}
+  m_Name: NewFaction_Unit_3
+  m_EditorClassIdentifier: Assembly-CSharp::GamePlay.Units.UnitConfig
+  fractionConfig: {fileID: 11400000, guid: 936e381d57033ee41a8803e7275e205c, type: 2}
+  baseColor:
+    serializedVersion: 2
+    rgba: 4287371802
+  unitName: NewFraction_Unit_3
+  actions:
+  - {fileID: 11400000, guid: 9ab2e1ae38884f842831174fddee55ea, type: 2}
+  - {fileID: 11400000, guid: e49713533f0766e44b9e0ecc2915036e, type: 2}
