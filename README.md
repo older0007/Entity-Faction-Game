@@ -56,7 +56,7 @@ In build it will be -> Start game -> GET remote config -> ApplyConfig - all SO w
 If internet not available - use default (in build config).
 
 
-##Known issue
+## Known issue
 Initially, I misspelled 'Faction' as 'Fraction' in the codebase.
 I noticed this late after finished task,
 I fixed the naming in the ScriptableObject and the Scene, but deliberately skipped refactoring the core scripts to save time and avoid regression testing.
